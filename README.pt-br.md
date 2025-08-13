@@ -85,7 +85,7 @@ Este gráfico destaca os 10 melhores modelos de clustering classificados pela Po
 
 **Renata Thomazelli**  
 Desenvolvedora Python | Analista de Dados | Entusiasta de Machine Learning  
-🌐 [Site Portfólio](https://renata-thomazelli.github.io)  
+🌐 [Site Portfólio](https://renata-thomazelli.github.io/portfolio/)  
 
 
 ---

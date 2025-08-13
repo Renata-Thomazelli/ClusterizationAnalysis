@@ -57,5 +57,5 @@ This chart highlights the top 10 clustering models ranked by Silhouette Score, w
 ## 📬 Author
 Renata Thomazelli  
 Python Developer | Data Analyst | Machine Learning Enthusiast  
-[Portfolio Website](https://renata-thomazelli.github.io)  
+[Portfolio Website](https://renata-thomazelli.github.io/portfolio/)  
 
