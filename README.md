@@ -46,7 +46,7 @@ This chart displays the evolution of clustering metrics (Silhouette Score and Da
 
 ### 📊 Bar Chart – Top 10 Models by Quality  
 This chart highlights the top 10 clustering models ranked by Silhouette Score, with corresponding Davies-Bouldin values. It provides a direct comparison of clustering quality across the best-performing configurations.  
-![Top 10 Comparison Chart](img/comparisonOfTheTop10Models_Clustering.png)
+![Top 10 Comparison Chart](img/comparisonOfTheTop10Models_Clustering.jpeg)
 
 ## 📁 Repository Structure
 - `notebooks/`: Jupyter notebooks with code and analysis

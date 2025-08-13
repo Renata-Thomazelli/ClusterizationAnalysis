@@ -68,7 +68,7 @@ Este gráfico exibe a evolução das métricas de agrupamento (Silhouette Score 
 
 ### 📊 Gráfico de Barras – 10 Melhores Modelos por Qualidade
 Este gráfico destaca os 10 melhores modelos de clustering classificados pela Pontuação Silhouette, com os valores Davies-Bouldin correspondentes. Ele fornece uma comparação direta da qualidade do clustering entre as configurações de melhor desempenho.
-![Gráfico de Comparação dos 10 Melhores](img/comparisonOfTheTop10Models_Clustering.png)
+![Gráfico de Comparação dos 10 Melhores](img/comparisonOfTheTop10Models_Clustering.jpeg)
 
 ---
 
